@@ -53,7 +53,7 @@ PluginImporter:
       enabled: 1
       settings:
         CompileFlags: 
-        FrameworkDependencies: 
+        FrameworkDependencies: Social;
   userData: 
   assetBundleName: 
   assetBundleVariant: 
